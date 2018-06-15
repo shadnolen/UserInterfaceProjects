@@ -1,4 +1,4 @@
- <?php include 'includes/headin.php';?> 
+ <?php include 'includes/head.php';?> 
 <?php include 'includes/header.php';?> 
 <!-- Nav Menu Bar - Drop down Menu Bar Version (with tranparency rollover tansition)  -->
 

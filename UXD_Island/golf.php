@@ -2,7 +2,7 @@
 <?php include 'includes/header.php';?>
 
 
-<main style="width:50% !important;"><img id="photo" src=" images/starwars.png" alt="logo" style="margin-left: 6%;"></main>
+<main style="width:50% !important;"><img id="photo" src=" images/golf.png" alt="logo" style="margin-left: 6%;"></main>
 <div class="container">
 <!---- column  ---->
     <article>
